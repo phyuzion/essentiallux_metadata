@@ -1,0 +1,18 @@
+{
+    "name": "EssentialLux",
+    "symbol": "ELX",
+    "image": "https://essentiallux.io/ess-logo.png",
+    "description": "EssentialLux Token",
+    "seller_fee_basis_points": 0,
+    "attributes": [],
+    "external_url": "https://essentiallux.io",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://essentiallux.io/ess-logo.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
